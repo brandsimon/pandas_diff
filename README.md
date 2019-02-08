@@ -5,7 +5,7 @@ It is tested under python3.7.
 
 ## Install
 
-Setup a a virtual python environment:
+Setup a virtual python environment:
 
     python3 -m venv .venv
 
