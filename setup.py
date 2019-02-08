@@ -12,6 +12,9 @@ setup(
     name='pandas_diff',
     version='0.0.1',
     author='Simon Brand',
+    author_email='simon.brand@postadigitale.de',
+    url='https://github.com/brandsimon/pandas_diff',
+    description='Tools to compare pandas objects',
     tests_require=TESTS_REQUIRES,
     entry_points={
         'console_scripts': [
